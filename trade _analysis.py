@@ -146,7 +146,7 @@ def triadic_closure(edge_list):
 	return n_edges
 
 
-#Reading the dataset
+#Reading the csv dataset
 df = pd.read_csv("w.csv",encoding='latin-1')
 
 #Network Creation
