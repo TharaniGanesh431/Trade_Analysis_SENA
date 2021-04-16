@@ -18,10 +18,3 @@ Pyvis  - for construction and visualization of the graph.
 
 NetworkX  - formed a graph for triadic closure.
 	NetworkX is a Python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks.
-	
-# Challenges Faced:
-
-1.Since the number of nodes (countries) in the dataset is large, the graph looks congested so nodes need to be scaled.  
-2.Since there is no inbuilt function in pyvis to traverse the graph, the user-defined function needs to be explicitly for traversing.  
-3.Since the dataset is huge, the CPU required more time for the processing which delayed the progress.
-4.Limited documentation is available for pyvis library.
