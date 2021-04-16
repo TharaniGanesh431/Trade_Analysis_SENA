@@ -15,10 +15,10 @@ The tools used for visualisation and analysis of data are:
 # Pandas - for pre-processing of data from CSV file.
 	Pandas is a fast, powerful, flexible and easy to use open-source data analysis and manipulation tool, built on top of the Python programming language.
 
-# Pyvis [2] - for construction and visualization of the graph.
+# Pyvis  - for construction and visualization of the graph.
 	The pyvis library is meant for the quick generation of visual network graphs with minimal python code. It is designed as a wrapper around the popular Javascript visJS library.
 
-# NetworkX [3] - formed a graph for triadic closure.
+# NetworkX  - formed a graph for triadic closure.
 	NetworkX is a Python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks.
 	
 # Challenges Faced:
