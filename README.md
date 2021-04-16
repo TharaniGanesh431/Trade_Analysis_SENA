@@ -10,15 +10,14 @@ Visualising the connectedness of the countries through import and exports as gra
 	The dataset for this project is obtained from the world trade organisation [1] in CSV format 29131 rows and 8 columns. It contains information about countries involved in the import and export of various products along with the products that they import or export. This data is noted for the year between 2013 - 2019. The data contains the transactions (in US$) through the exports and imports of products for each year between 2013-2019.  
 
 # Tools Used:
-
 The tools used for visualisation and analysis of data are:
-# Pandas - for pre-processing of data from CSV file.
+Pandas - for pre-processing of data from CSV file.
 	Pandas is a fast, powerful, flexible and easy to use open-source data analysis and manipulation tool, built on top of the Python programming language.
 
-# Pyvis  - for construction and visualization of the graph.
+Pyvis  - for construction and visualization of the graph.
 	The pyvis library is meant for the quick generation of visual network graphs with minimal python code. It is designed as a wrapper around the popular Javascript visJS library.
 
-# NetworkX  - formed a graph for triadic closure.
+NetworkX  - formed a graph for triadic closure.
 	NetworkX is a Python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks.
 	
 # Challenges Faced:
