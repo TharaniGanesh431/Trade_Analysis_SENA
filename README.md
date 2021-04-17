@@ -6,7 +6,7 @@ This project aims to visualise and analyse the international imports and exports
 Visualising the connectedness of the countries through import and exports as graphs provides a better vision on understanding world trade.
 
 # Dataset Description:
-  The dataset for this project is obtained from the world trade organisation [1] in CSV format 29131 rows and 8 columns. It contains information about countries involved in the import and export of various products along with the products that they import or export. This data is noted for the year between 2013 - 2019. The data contains the transactions (in US$) through the exports and imports of products for each year between 2013-2019.  
+  The dataset for this project is obtained from the world trade organisation in CSV format 29131 rows and 8 columns. It contains information about countries involved in the import and export of various products along with the products that they import or export. This data is noted for the year between 2013 - 2019. The data contains the transactions (in US$) through the exports and imports of products for each year between 2013-2019.  
 
 # Tools Used:
 The tools used for visualisation and analysis of data are:
