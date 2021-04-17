@@ -17,7 +17,7 @@ inproduct={}	#Dictionary of Product Imports
 maxexpprod={}	#Dictionary of maximum exports with respect to products
 minexpprod={}	#Dictionary of maximum imports with respect to products
 
-products=['MT2 - 01 - Animal products','MT2 - 02 - Dairy products',       #products in the dataset
+products=['MT2 - 01 - Animal products','MT2 - 02 - Dairy products',       #category of products in the dataset
 'MT2 - 03 - Fruits, vegetables, plants',
 'MT2 - 04 - Coffee, tea']
 
